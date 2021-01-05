@@ -7,6 +7,8 @@ public class Main {
         NumberFormat percent = NumberFormat.getPercentInstance();
         String result = percent.format(0.12);
         System.out.println(result);
+
+
 //        int[] numbers = {1,2,4,5,6,7,7};
 //        System.out.println(numbers.length);
 //        System.out.println(Arrays.toString(numbers));
